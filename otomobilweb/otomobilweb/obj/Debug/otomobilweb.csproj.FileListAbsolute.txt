@@ -1,0 +1,6 @@
+E:\Otomobil projesi\otomobilweb\otomobilweb\bin\otomobilweb.dll.config
+E:\Otomobil projesi\otomobilweb\otomobilweb\bin\otomobilweb.dll
+E:\Otomobil projesi\otomobilweb\otomobilweb\bin\otomobilweb.pdb
+E:\Otomobil projesi\otomobilweb\otomobilweb\obj\Debug\otomobilweb.csprojResolveAssemblyReference.cache
+E:\Otomobil projesi\otomobilweb\otomobilweb\obj\Debug\otomobilweb.dll
+E:\Otomobil projesi\otomobilweb\otomobilweb\obj\Debug\otomobilweb.pdb

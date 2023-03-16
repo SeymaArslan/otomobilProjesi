@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item Text="Anasayfa" NavigateUrl="#" />
+  <item Text="Raporlar" NavigateUrl="#"  />
+  <item Text="Rapor Oluştur" NavigateUrl="Raporekle.aspx"  />
+  <item Text="Ayarlar" NavigateUrl="#"  />
+  <item Text="Çıkış" NavigateUrl="#"  />
+</items>

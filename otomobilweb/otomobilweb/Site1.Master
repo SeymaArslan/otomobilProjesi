@@ -1,0 +1,86 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="otomobilweb.Site1" %>
+<link href="Content/bootstrap.css" rel="stylesheet" />
+<link href="Content/AdminLTE.css" rel="stylesheet" />
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+    <title>Yedek-Oto Parça Sistemine Hoşgeldiniz</title>
+    <img src="images/Arama_Alt.png"  width="100%" height="10%" />
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+      
+
+        .navbar{
+            margin-bottom:0px;
+        }
+.navbar-nav > li > a {
+  	color:#fff;
+  	padding-left:20px;
+  	padding-right:20px;
+  	border-left:1px solid #D9D4D4;
+}
+.navbar-default .navbar-nav > li > a
+{
+    font-family:Arial;
+    color:#141313 !important;
+    font-size:12px;
+}
+.navbar-nav > li > a:hover, .navbar-nav > li > a:focus {
+    color:#95BEDE !important; 
+    background-color:white !important;
+}
+.navbar-nav > li:last-child > a {
+  	border-right:1px solid #D9D4D4;
+}
+.navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+    color: #95BEDE !important;
+	background-color:white !important;
+}
+.navbar-nav > .open > a, .navbar-nav > .open > a:hover, .navbar-nav > .open > a:focus {
+	color: #95BEDE;
+	background-color:white !important;
+  	opacity:.9;
+    border-color:#969393;
+}
+
+.nav .open > a {
+    border-color:#777777;
+    border-width:0;
+    background-color:white !important;
+}
+
+
+
+.navbar-toggle {
+	color:#fff;
+    border-width:0;
+}
+  
+.navbar-toggle:hover {
+	background-color:#fff;
+}
+
+.panel {
+	padding-left:27px;
+    padding-right:27px;
+}
+
+    </style>
+  
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

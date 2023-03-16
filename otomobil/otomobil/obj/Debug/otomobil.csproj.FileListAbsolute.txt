@@ -1,0 +1,34 @@
+E:\Otomobil projesi\otomobil\otomobil\bin\Debug\otomobil.exe.config
+E:\Otomobil projesi\otomobil\otomobil\bin\Debug\otomobil.exe
+E:\Otomobil projesi\otomobil\otomobil\bin\Debug\otomobil.pdb
+E:\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.csprojResolveAssemblyReference.cache
+E:\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.Form1.resources
+E:\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.Properties.Resources.resources
+E:\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.csproj.GenerateResource.Cache
+E:\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.exe
+E:\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.pdb
+E:\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.Menu.resources
+E:\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.Kayit.resources
+E:\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.Stok.resources
+E:\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.Fatura.resources
+E:\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.Adres.resources
+E:\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.Odeme.resources
+C:\Users\user\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\bin\Debug\otomobil.exe.config
+C:\Users\user\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.exe
+C:\Users\user\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.pdb
+C:\Users\user\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\bin\Debug\otomobil.exe
+C:\Users\user\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\bin\Debug\otomobil.pdb
+C:\Users\user\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.Adres.resources
+C:\Users\user\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.Fatura.resources
+C:\Users\user\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.Form1.resources
+C:\Users\user\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.Kayit.resources
+C:\Users\user\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.Menu.resources
+C:\Users\user\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.Odeme.resources
+C:\Users\user\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.ONERI.resources
+C:\Users\user\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.Properties.Resources.resources
+C:\Users\user\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.Stok.resources
+C:\Users\user\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.csproj.GenerateResource.Cache
+C:\Users\ŞEYMA\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\bin\Debug\otomobil.exe.config
+C:\Users\ŞEYMA\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.exe
+C:\Users\ŞEYMA\Desktop\Otomobil projesi\Otomobil projesi\otomobil\otomobil\obj\Debug\otomobil.pdb
